@@ -1,0 +1,4 @@
+tensorflow["and-cuda"]==2.15
+tensorcircuit-ng==1.0.0
+cotengra==0.6.2
+tqdm==4.66.5
